@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofluck&label=Profile%20views&color=0e75b6&style=flat" alt="mostofluck" /> </p>
 
+- 🔭 I’m currently working on [frontedn-project-44](https://github.com/MostOfLuck/frontend-project-44)
+
 - 🌱 I’m currently learning **React, Vue**
 
 - 📫 How to reach me **burtman.samuel26@gmail.com**
+
+- ⚡ Fun fact **Mention unique hobbies like skydiving, underwater basket weaving, or competitive chili cook-offs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
