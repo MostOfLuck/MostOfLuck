@@ -21,10 +21,8 @@ I am a beginner front-end developer from Canada. I took a front-end developer co
 
 ### My projects
 
-[![Brain Games Badge](https://img.shields.io/badge/Brain%20Games-%20-blue?style=for-the-badge)](https://github.com/MostOfLuck/frontend-project-44)
 
-
-
+[![Brain Games Badge](https://img.shields.io/badge/Brain%20Games-blue?style=for-the-badge)](https://github.com/MostOfLuck/frontend-project-44)
 
 
 
