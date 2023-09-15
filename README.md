@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend deweloper
 ------------------
 
-I am a beginner front-end developer from Czechia. I took a front-end developer course at hexlet programming school.
+I am a beginner front-end developer from Canada. I took a front-end developer course at hexlet programming school.
 
 * 🌍  I'm based in Prague
 * ✉️  You can contact me at [burtman.samuel26@gmail.com](mailto:burtman.samuel26@gmail.com)
