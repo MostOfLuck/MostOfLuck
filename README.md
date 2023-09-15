@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 17 years Frontend developing & Artificial Intelligence Enthusiast from Czechia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -21,7 +21,7 @@
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
+- ✨ Watching Movies
 - ✨ Reading Light Novels
 - ✨ Badminton (Neighbourhood Professional XD)
 
@@ -37,7 +37,6 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
@@ -79,7 +78,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.reddit.com/user/X_Ashutosh_X">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
+<a href="https://steamcommunity.com/profiles/76561198440716627/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
