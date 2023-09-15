@@ -47,7 +47,8 @@ I am a beginner front-end developer from Canada. I took a front-end developer co
 
 ### My projects
 
-[![Brain Games](https://camo.githubusercontent.com/e9e7d754ef19428f7a3f0b59abde8b31778472c71c9699139e01ba588d48a170/68747470733a2f2f692e6962622e636f2f373156537a57702f787a78782e706e67){ width=100 height=100 }](https://github.com/MostOfLuck/frontend-project-44)
+[![Brain Games](https://img.shields.io/badge/Brain%20Games-blue)](https://github.com/MostOfLuck/frontend-project-44)
+
 
 
 
