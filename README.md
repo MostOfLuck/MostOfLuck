@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petr
 ============================================================================================================================
 
-Frontend deweloper
+Frontend developer
 ------------------
 
-I am a beginner front-end developer from Canada. I took a front-end developer course at hexlet programming school.
+I am a beginner front-end developer from Prague. I took a front-end developer course at hexlet programming school.
 
 * 🌍  I'm based in Prague
-* ✉️  You can contact me at [burtman.samuel26@gmail.com](mailto:burtman.samuel26@gmail.com)
 * 🧠  I'm learning React, Vue
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I'm sercretly like kvas man but dont tell anyone :)
