@@ -11,7 +11,7 @@ I am a beginner front-end developer from Prague. I took a front-end developer co
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I'm sercretly like kvas man but dont tell anyone :)
 
-### 💻 Skills
+### 💻 Technologies
 
 
 <h3 align="left">Languages and Tools:</h3>
