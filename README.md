@@ -25,7 +25,7 @@ I am a beginner front-end developer from Prague. I took a front-end developer co
 
 
 
-### Socials
+###  🤝 Socials
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/petr-burtmann-249a70291/" target="_blank">
