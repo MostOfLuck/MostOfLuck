@@ -1,9 +1,8 @@
 Hi, My name is Petr!
 ============================================================================================================================
 
-Frontend developer
-------------------
 
+### 👨‍💻 About me:
 I am a beginner front-end developer from Prague. I took a front-end developer course at hexlet programming school.
 
 * 🌍  I'm based in Prague
