@@ -5,6 +5,12 @@ Hi, My name is Petr!
 ### 👨‍💻 About me:
 I am a beginner front-end developer from Prague. I took a front-end developer course at hexlet programming school.
 
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 * 🌍  I'm based in Prague
 * 🧠  I'm learning React, Vue
 * 🤝  I'm open to collaborating on frontend projects
