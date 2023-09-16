@@ -7,7 +7,7 @@ I am a beginner front-end developer from Prague. I took a front-end developer co
 
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="/github-snake.svg" alt="snake"/>
 </p>
 
 
