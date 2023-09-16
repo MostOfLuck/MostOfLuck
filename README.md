@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I am a beginner front-end developer from Prague. I took a front-end developer course at hexlet programming school.
+I am a beginner front-end developer from Prague src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I took a front-end developer course at hexlet programming school.
 
 * 🌍  I'm based in Prague
 * 🧠  I'm learning React, Vue
