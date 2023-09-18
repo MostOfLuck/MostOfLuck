@@ -77,13 +77,7 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=MostOFLuck&countColor=%23263759)
 
-### Support Me:
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/petrroleum"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 
 
 
