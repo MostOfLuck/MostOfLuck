@@ -75,7 +75,7 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 
 <div width="100%" align="center"><a href="https://github.com/MostOfLuck/frontend-project-44" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MostOfLuck&repo=frontend-project-44&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=115481136)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=MostOFLuck&countColor=%23263759)
 
 ### Support Me:
 
