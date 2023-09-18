@@ -61,8 +61,6 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 
 
 
-### Badges
-
 ### ⚙️ GitHub stats:
 
 <a href="http://www.github.com/MostOfLuck"><img src="https://github-readme-stats.vercel.app/api?username=MostOfLuck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="MostOfLuck's GitHub stats" /></a>
@@ -70,6 +68,18 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 <a href="http://www.github.com/MostOfLuck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MostOfLuck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/MostOfLuck" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostOfLuck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MostOfLuck&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MostOfLuck&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 <b>Top Repositories</b>
 
