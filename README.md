@@ -59,7 +59,9 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a></p>
 
+### 💻 Codewars:
 
+![codewars](https://www.codewars.com/users/MostOfLuck/badges/large)
 
 ### ⚙️ GitHub stats:
 
