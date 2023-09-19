@@ -17,6 +17,8 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  I'm sercretly like kvas man but dont tell anyone :)
 
+---
+
 ### 💻 Technologies:
 
 
@@ -45,13 +47,14 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ### 👨‍💻 My projects:
 
 
 [![Brain Games Badge](https://img.shields.io/badge/Brain%20Games-blue?style=for-the-badge)](https://github.com/MostOfLuck/frontend-project-44)
 
-
+---
 
 ###  🤝 Socials:
 
@@ -60,9 +63,13 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a></p>
 
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/MostOfLuck/badges/large)
+
+---
 
 ### ⚙️ GitHub stats:
 
