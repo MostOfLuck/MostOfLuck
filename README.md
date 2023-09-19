@@ -32,6 +32,7 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
+---
 
 
 ### 🛠 Tools:
