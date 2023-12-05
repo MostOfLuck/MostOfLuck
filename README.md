@@ -54,7 +54,7 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 
 [![Brain Games Badge](https://img.shields.io/badge/Brain%20Games-blue?style=for-the-badge)](https://github.com/MostOfLuck/frontend-project-44)
 [![Difference Calculator Badge](https://img.shields.io/badge/Difference%20Calculator-red?style=for-the-badge)](https://github.com/MostOfLuck/frontend-project-46)
-[![Bakery Website Badge](https://img.shields.io/badge/Bakery%20Website-green?style=for-the-badge)]](https://github.com/MostOfLuck/Bakery-website)
+[![Bakery Website Badge](https://img.shields.io/badge/Bakery%20Website-green?style=for-the-badge)](https://https://github.com/MostOfLuck/Bakery-website)
 ---
 
 ###  🤝 Socials:
