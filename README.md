@@ -15,7 +15,7 @@ I live in the Czech Republic in Prague. Ready to work remotely or with Czech com
 * 🌍  I'm based in Prague
 * 🧠  I'm learning React, Vue
 * 🤝  I'm open to collaborating on frontend projects
-* ⚡  I'm sercretly jump like a spiderman but dont tell anyone :)
+* ⚡  I'm sercretly jumping like a spiderman but dont tell anyone :)
 
 ---
 
