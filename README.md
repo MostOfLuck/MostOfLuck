@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻 About me:
-I am a beginner front-end developer from Prague. I took a front-end developer course at hexlet programming school.
+I am a beginner front-end developer from Prague. I took a front-end developer course at Hexlet programming school.
 I have experience with HTML and JavaScript. At the moment I am working on my own projects.
 I live in the Czech Republic in Prague. Ready to work remotely or with Czech companies in the office.
 
