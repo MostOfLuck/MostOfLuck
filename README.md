@@ -57,12 +57,6 @@
 
 ---
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/MostOfLuck/badges/large)
-
----
-
 ### ⚙️ GitHub stats:
 
 <table>
