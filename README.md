@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning some secret but interesting things.
 <p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MostOfLuck=anuraghazra&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=MostOfLuck&show_icons=true&hide_border=true&theme=shades-of-purple">
 </p>
 
 
