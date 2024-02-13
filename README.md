@@ -1,9 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MostOfLuck/MostOfLuck/master/name.svg" alt="Peter Baikov" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
-
-
-
 
 
 
