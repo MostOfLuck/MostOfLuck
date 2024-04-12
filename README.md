@@ -32,6 +32,13 @@ I am a frontend developer from Prague. I have 1 year of commercial experience. I
 </p>
 <hr>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MostOfLuck/MostOfLuck/mainj/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
