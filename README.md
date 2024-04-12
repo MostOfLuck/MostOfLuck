@@ -27,9 +27,9 @@
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
+- Liquor Shop App (React)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
+- My next video
 - My CSS skill
 
 ## 🌱 I'm currently learning
