@@ -36,7 +36,7 @@
 [![LIQUOR SHOP](https://img.shields.io/badge/LIQUORSHOP-blue?style=for-the-badge&logo=money&color=blue&logoWidth=60&logoHeight=60)](https://github.com/your_username/LIQUORSHOP)
 [![SLACK-CHAT](https://img.shields.io/badge/SLACKCHAT-blue?style=for-the-badge&logo=money&color=blue&logoWidth=60&logoHeight=60)](https://github.com/your_username/SITELIGA)
 [![RSS Aggregator](https://img.shields.io/badge/RSS-Aggregator-blue?style=for-the-badge&logo=money&color=blue&logoWidth=60&logoHeight=60)](https://github.com/your_username/SITELIGA)
-[![Difference-Calculator](https://img.shields.io/badge/RSS-Aggregator-blue?style=for-the-badge&logo=money&color=blue&logoWidth=60&logoHeight=60)](https://github.com/your_username/SITELIGA)
+[![Difference-Calculator](https://img.shields.io/badge/Difference-Calculator-blue?style=for-the-badge&logo=money&color=blue&logoWidth=60&logoHeight=60)](https://github.com/your_username/SITELIGA)
 
 
 
