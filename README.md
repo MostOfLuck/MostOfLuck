@@ -24,5 +24,5 @@
 <hr>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MostOfLuck=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMostOfLuck=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
