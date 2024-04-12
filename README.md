@@ -16,7 +16,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,node.js,redux,pr" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,powershell,redux,pr" />
   </a>
 </p>
 <hr>
