@@ -5,7 +5,9 @@
 </h1>
 
 <h5 align="center">
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+  <p>
+    ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+  </p>
 </h5>
 
 
