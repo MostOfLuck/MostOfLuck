@@ -4,13 +4,6 @@
   </a>
 </h1>
 
-## 🔭 I'm currently working on
-
-- My old projects
-- Liquor Shop App (React)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next video
-- My CSS skill
 
 
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
