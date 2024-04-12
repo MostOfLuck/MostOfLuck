@@ -12,14 +12,6 @@
 - My next video
 - My CSS skill
 
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components
-
-
 
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
