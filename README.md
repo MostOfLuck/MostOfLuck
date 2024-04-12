@@ -33,6 +33,7 @@
 <h2 align="center">⚙️ Projects ⚙️</h2>
 
 [![SITELIGA](https://img.shields.io/badge/SITELIGA-Blue?style=for-the-badge&logo=money&color=blue&logoWidth=60&logoHeight=60)](https://github.com/your_username/SITELIGA)
+[![LIQUOR SHOP](https://img.shields.io/badge/SITELIGA-Blue?style=for-the-badge&logo=money&color=orange&logoWidth=60&logoHeight=60)](https://github.com/your_username/SITELIGA)
 
 
 
