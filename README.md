@@ -27,7 +27,7 @@ I am a frontend developer from Prague. I have 1 year of commercial experience. I
 <h2 align="center">⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,powershell,nodejs,redux,pr,linux" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,powershell,nodejs,redux,figma,linux" />
   </a>
 </p>
 <hr>
