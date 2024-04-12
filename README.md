@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+    
+<h2>⚡List of Interests ⚡</h2>
 
   ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
