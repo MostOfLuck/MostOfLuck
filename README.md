@@ -14,6 +14,16 @@
  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,powershell,nodejs,redux,pr,linux" />
+  </a>
+</p>
+<hr>
+
 ## 🔭 I'm currently working on
 
 - My old projects
@@ -28,15 +38,5 @@
 - Firebase
 - React Context API
 - Styled Components
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,powershell,nodejs,redux,pr,linux" />
-  </a>
-</p>
-<hr>
-
 
 
