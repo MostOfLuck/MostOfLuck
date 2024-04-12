@@ -4,6 +4,22 @@
   </a>
 </h1>
 
+## 🔭 I'm currently working on
+
+- My old projects
+- Liquor Shop App (React)
+- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My next video
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Firebase
+- React Context API
+- Styled Components
+
+
 
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -24,19 +40,5 @@
 </p>
 <hr>
 
-## 🔭 I'm currently working on
-
-- My old projects
-- Liquor Shop App (React)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next video
-- My CSS skill
-
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components
 
 
