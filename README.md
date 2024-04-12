@@ -27,3 +27,6 @@
 
 
 <h2 align="center">⚡ Projects ⚡</h2>
+<p>
+  ![Static Badge](https://img.shields.io/badge/:badgeContent)
+</p>
