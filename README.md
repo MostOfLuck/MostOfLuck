@@ -32,7 +32,8 @@
 
 <h2 align="center">⚙️ Projects ⚙️</h2>
 
-[![SITELIGA](https://img.shields.io/badge/SITELIGA-Blue?style=for-the-badge&logo=appveyor&labelColor=blue)](https://github.com/your_username/SITELIGA)
+[![SITELIGA](https://img.shields.io/badge/SITELIGA-Blue?style=for-the-badge&logo=appveyor&color=blue)](https://github.com/your_username/SITELIGA)
+
 
 
 
