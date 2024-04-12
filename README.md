@@ -4,9 +4,10 @@
   </a>
 </h1>
 
+ ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 <h5 align="center">
   <p>
-    ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+   
   </p>
 </h5>
 
