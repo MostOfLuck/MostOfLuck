@@ -24,7 +24,7 @@ I am a frontend developer from Prague. I have 1 year of commercial experience. I
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,ps,vscode,powershell,nodejs,redux,pr,linux" />
