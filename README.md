@@ -45,9 +45,7 @@ I am a frontend developer from Prague. I have 1 year of commercial experience. I
 
 <br/><br/>
 
-<hr/>
 
-<br/>
 
 
 
