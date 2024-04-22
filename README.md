@@ -10,11 +10,10 @@ I am a frontend developer from Prague. I have 1 year of commercial experience. I
 
     
 <h2 align="center">🔍 Contact me 🔍</h2>
-<div align="center">
+
  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</div>
 <hr>
 <h2 align="center">⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
 <p align="center">
