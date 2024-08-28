@@ -23,7 +23,7 @@ I am a frontend developer from Prague. I am currently studying at Charles Univer
 <h2 align="center">⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,figma,vscode,bots,nodejs,mysql,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,npm,figma,tailwind,bots,nodejs,mysql,docker,linux" />
   </a>
 </p>
 <hr>
