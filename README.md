@@ -19,10 +19,6 @@ I am a frontend developer from Prague. I am currently studying at Charles Univer
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-<a href="https://x.com/SymonBaikov" target="_blank">
-  <img src="https://img.shields.io/badge/X-BLUE?style=for-the-badge&logo=LOGO_NAME&logoColor=white" alt="Platform X">
-</a>
-
 
 <hr>
 <h2 align="center">⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
