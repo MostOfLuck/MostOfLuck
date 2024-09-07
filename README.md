@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center"> 😊 About me</h2>
-I am a frontend developer from Prague. I am currently studying at Charles University in Prague at the Faculty of Information Technology. I have worked on a lot of different projects.
+I am a frontend developer from Czechia, currently focusing on various types of projects.
 
 <h2 align="center">🔍 Reach me 🔍</h2>
 
