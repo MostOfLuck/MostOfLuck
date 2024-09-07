@@ -2,7 +2,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Symon+Baikov....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>    
+</h1>
+
+<h2 align="center"> 😊 About me</h2>
+I am a frontend developer from Prague. I am currently studying at Charles University in Prague at the Faculty of Information Technology. I have worked on a lot of different projects.
+
 <h2 align="center">🔍 Reach me 🔍</h2>
 
  <a href="https://www.facebook.com/profile.php?id=100090431087658" target="_blank">
