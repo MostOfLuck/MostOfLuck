@@ -23,9 +23,10 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 </p>
 <hr>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card" style="margin: 20 auto;">
+<div>
+  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card" style="display: block; margin-left: auto;">
 </div>
+
 
 
 
