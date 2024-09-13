@@ -10,14 +10,12 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 <h2 align="center">🔍 Reach me 🔍</h2>
 
 
-<a href="https://leetcode.com" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode">
-</a>
+<div style="display: flex; justify-content: center;">
+  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card">
+</div>
 
 
-  <a href="https://t.me/akapullkko" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
+
 
 
 <hr>
