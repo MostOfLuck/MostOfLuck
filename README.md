@@ -10,8 +10,8 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 <h2 align="center">🔍 Reach me 🔍</h2>
 
 
- <a href="https://www.facebook.com/profile.php?id=100090431087658" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+<a href="https://leetcode.com" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode">
 </a>
 
 
