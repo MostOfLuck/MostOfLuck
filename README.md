@@ -29,10 +29,9 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 </p>
 <hr>
 
-
+  ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
 
 <h2 align="center">⚡ Stats ⚡</h2>
-  ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MostOfLuck&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
