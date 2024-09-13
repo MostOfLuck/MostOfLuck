@@ -23,9 +23,7 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 </p>
 <hr>
 
-<div>
-  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card" style="display: block; margin-left: auto;">
-</div>
+![](https://leetcard.jacoblin.cool/jacoblincool?animation=true)
 
 
 
