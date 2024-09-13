@@ -32,7 +32,7 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MostOfLuck&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
-   <img src="https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity" alt="LeetCode Stats" />
 </div>
 <br/><br/>
 
