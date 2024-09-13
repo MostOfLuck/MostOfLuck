@@ -23,8 +23,9 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 
 <h2 align="center">📊 LeetCode 📊</h2>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=nord" alt="LeetCode Stats" />
 </div>
+
 
 
 
