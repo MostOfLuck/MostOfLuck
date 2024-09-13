@@ -20,6 +20,12 @@ I am a frontend developer from Czechia, currently focusing on various types of p
   </a>
 </p>
 <hr>
+
+<h2 align="center">📊 LeetCode 📊</h2>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Stats" />
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
@@ -30,8 +36,4 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 </div>
 <br/><br/>
 
-<h2 align="center">📊 LeetCode 📊</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Stats" />
-</div>
 
