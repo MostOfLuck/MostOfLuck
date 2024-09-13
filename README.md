@@ -29,7 +29,10 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 </p>
 <hr>
 
-  ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+ <div style="text-align: center;">
+  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card">
+</div>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
