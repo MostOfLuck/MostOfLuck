@@ -10,10 +10,6 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 <h2 align="center">🔍 Reach me 🔍</h2>
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card">
-</div>
-
 
 
 
@@ -27,9 +23,10 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 </p>
 <hr>
 
- <div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Card">
 </div>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
