@@ -23,7 +23,7 @@ I am a frontend developer from Czechia, currently focusing on various types of p
 
 <h2 align="center">📊 LeetCode 📊</h2>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity" alt="LeetCode Stats" />
 </div>
 
 
