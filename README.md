@@ -5,7 +5,15 @@
 </h1>
 <h2 align="center"> 😊 About me</h2>
 <p>
-  I am a frontend developer from Czechia, currently focusing on various types of projects. I am studying at the College of Karlovy Vary in the Faculty of Economics and Management.
+ Hello! I’m Samuel Boerman, a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. My journey in tech began at Hexlet, where I immersed myself in the world of front-end development. The comprehensive course not only equipped me with essential skills but also ignited a deep passion for coding and problem-solving.
+
+After completing the course, I took the initiative to expand my expertise and transition into full-stack development. Through self-study, personal projects, and collaboration with other developers, I honed my skills in various programming languages and frameworks, allowing me to create dynamic and responsive web applications.
+
+Living my profession means constantly learning and adapting to new technologies. I enjoy tackling challenges and pushing the boundaries of what I can create. Whether it's building user-friendly interfaces or optimizing server-side performance, I take pride in delivering quality work that meets the needs of users.
+
+When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or sharing my knowledge with others in the developer community. I believe in the power of collaboration and am always eager to connect with fellow tech enthusiasts.
+
+Let’s create something amazing together!
 </p>
 <h2 align="center">🔍 Reach me 🔍</h2>
 <p>
