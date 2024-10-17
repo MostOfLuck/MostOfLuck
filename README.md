@@ -5,15 +5,9 @@
 </h1>
 <h2 align="center"> 😊 About me</h2>
 <p>
- Hello! I’m Samuel Boerman, a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. My journey in tech began at Hexlet, where I immersed myself in the world of front-end development. The comprehensive course not only equipped me with essential skills but also ignited a deep passion for coding and problem-solving.
+I’m Samuel Boerman, a Full Stack Developer with a passion for coding and problem-solving. My journey began at Hexlet, where I trained as a front-end developer. After completing the course, I independently transitioned to full-stack development, mastering various technologies along the way.
 
-After completing the course, I took the initiative to expand my expertise and transition into full-stack development. Through self-study, personal projects, and collaboration with other developers, I honed my skills in various programming languages and frameworks, allowing me to create dynamic and responsive web applications.
-
-Living my profession means constantly learning and adapting to new technologies. I enjoy tackling challenges and pushing the boundaries of what I can create. Whether it's building user-friendly interfaces or optimizing server-side performance, I take pride in delivering quality work that meets the needs of users.
-
-When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or sharing my knowledge with others in the developer community. I believe in the power of collaboration and am always eager to connect with fellow tech enthusiasts.
-
-Let’s create something amazing together!
+Living my profession means constantly learning and tackling new challenges. I love creating dynamic web applications and collaborating with other tech enthusiasts. When I’m not coding, I explore the latest trends and contribute to open-source projects. Let’s build something great together!
 </p>
 <h2 align="center">🔍 Reach me 🔍</h2>
 <p>
