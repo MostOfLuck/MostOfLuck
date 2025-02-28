@@ -9,7 +9,7 @@ Living my profession means constantly learning and tackling new challenges. I lo
 </p>
 <h2 align="center">🔍 Reach me 🔍</h2>
 <p>
-  <a href="https://t.me/akapullkko" target="_blank">
+  <a href="https://t.me/symonbaikov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
