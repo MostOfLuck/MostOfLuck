@@ -17,7 +17,7 @@ Living my profession means constantly learning and tackling new challenges. I lo
 <h2 align="center">⚒️ Languages & Frameworks & Tools & Abilities ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,storybook,nextjs,tailwind,prisma,nodejs,linux,docker,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,react,css,html,vim,express,nextjs,tailwind,prisma,nodejs,linux,docker,postgresql" />
   </a>
 </p>
 <hr>
